@@ -12,6 +12,9 @@ public class pract2 {
         else{
             System.out.println("Not present");
         }
+        System.out.println(map.get("petrol"));//key exist
+
+        System.out.println(map.get("liquid"));
         
 
     }
