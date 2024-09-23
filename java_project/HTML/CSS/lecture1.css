@@ -1,0 +1,22 @@
+h1{
+    color:red;
+
+}
+button{
+    color: green;
+    background-color: yellowgreen;
+}
+body{
+    background-color: #658147;
+}
+/* universal selector */
+*{
+    color:aquamarine
+}
+/* for all heading color */
+#h1{
+    color: #658147;
+}
+div{
+    background-color: red;
+}
