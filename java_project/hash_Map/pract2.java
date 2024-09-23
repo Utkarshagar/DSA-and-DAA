@@ -6,6 +6,12 @@ public class pract2 {
         map.put("disel",60);
         map.put("kerosine",20);
         System.out.println(map);
+        if(map.containsKey("petrol")){
+            System.out.println("key is present");
+        }
+        else{
+            System.out.println("Not present");
+        }
         
 
     }
