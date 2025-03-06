@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
