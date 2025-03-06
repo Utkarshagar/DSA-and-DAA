@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
