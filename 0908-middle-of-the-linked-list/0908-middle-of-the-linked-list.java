@@ -10,15 +10,22 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        //using slow and fast pointer approach
-        ListNode slow=head;
-        ListNode fast=head;
-        // in case of even size fast is null and odd fast.next is null
-        while(fast!=null && fast.next!=null ){
-            slow=slow.next;
-            fast=fast.next.next;
+        ListNode temp=head;
+        int count=0;
+        while(temp!=null){
+            count++;
+            temp=temp.next;
+
         }
-        return slow;
+        int a=(count/2)+1;
+        int x=1;
+        ListNode p=head;
+        while(x!=a){
+            x++;
+            p=p.next;
+
+        }
+        return p;
         
     }
 }
