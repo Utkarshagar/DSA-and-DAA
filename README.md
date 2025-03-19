@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0191-number-of-1-bits) |
 ## Queue
 |  |
