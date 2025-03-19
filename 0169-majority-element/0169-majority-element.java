@@ -8,7 +8,7 @@ class Solution {
         int m=0;
         for(int x:map.keySet()){
             if(map.get(x)>r){
-                 r=Math.max(r,map.get(x));
+                 r=map.get(x);
                  m=x;
 
             }
