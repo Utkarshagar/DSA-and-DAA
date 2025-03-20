@@ -1,27 +1,32 @@
 class Solution {
-    public void sortColors(int[] arr) {
+    public void sortColors(int[] nums) {
+        // Hashmap<Integer,Integer>map=new HashMap<>();
         int z=0;
         int o=0;
         int t=0;
-       for(int n:arr){
-        if(n==0){
-            z++;
+        for(int a:nums){
+            if(a==0){
+                z++;
+
+            }
+            if(a==1){
+                o++;
+            }
+            if(a==2){
+                t++;
+            }
         }
-        if(n==1){
-            o++;
+        for(int i=0;i<z;i++){
+            nums[i]=0;
         }
-        if(n==2){
-            t++;
+        for(int i=z;i<o+z;i++){
+            nums[i]=1;
         }
-       }
-       for(int i=0;i<arr.length;i++){
-        if(i<z){
-            arr[i]=0;
+        for(int i=o+z;i<t+o+z;i++){
+            nums[i]=2;
         }
-        if(i>=z && i<o+z) arr[i]=1;
-        if(i>=o+z && i<z+o+t) arr[i]=2;
-      
-       }
+        
+
         
     }
 }
