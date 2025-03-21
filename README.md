@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Linked List
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
