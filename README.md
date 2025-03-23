@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -203,8 +204,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
