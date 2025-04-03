@@ -8,9 +8,7 @@ class Solution {
                 }
             }
         }
-        if(a<0){
-            return 0;
-        }
-        return a;
+       
+        return Math.max(a,0);
     }
 }
