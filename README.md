@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1646-kth-missing-positive-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2649-count-total-number-of-colored-cells) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -251,4 +254,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
