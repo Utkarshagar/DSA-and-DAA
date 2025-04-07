@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -224,16 +225,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
