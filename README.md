@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3451-string-compression-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
