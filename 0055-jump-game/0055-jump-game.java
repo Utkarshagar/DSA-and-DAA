@@ -7,7 +7,8 @@ class Solution {
         if(i>a){
             return false;
         }
-        a=Math.max(a,x);
+        a=Math.max(a,x
+        );
         
 
        }
