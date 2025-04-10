@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0792-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
