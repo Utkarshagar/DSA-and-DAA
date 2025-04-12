@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0792-binary-search) |
