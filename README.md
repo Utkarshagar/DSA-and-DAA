@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0782-jewels-and-stones) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
