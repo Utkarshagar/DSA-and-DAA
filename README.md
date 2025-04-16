@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
