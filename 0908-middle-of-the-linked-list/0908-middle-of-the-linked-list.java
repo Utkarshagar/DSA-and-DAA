@@ -18,6 +18,5 @@ class Solution {
         }
         return arr.get(arr.size()/2);
         
-        
     }
 }
