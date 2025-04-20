@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
