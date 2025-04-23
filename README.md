@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0782-jewels-and-stones) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1500-count-largest-group) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
+| [1500-count-largest-group](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
