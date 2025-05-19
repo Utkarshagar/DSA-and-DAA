@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3483-alternating-groups-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3321-type-of-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3321-type-of-triangle) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
