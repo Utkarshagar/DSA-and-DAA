@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3194-find-words-containing-character) |
 | [3451-string-compression-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
