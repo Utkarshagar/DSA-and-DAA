@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3321-type-of-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3321-type-of-triangle) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
