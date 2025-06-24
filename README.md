@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
