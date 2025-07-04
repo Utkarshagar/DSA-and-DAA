@@ -11,7 +11,7 @@ class Solution {
                 count++;
             }
         }
-        return count==arr.length && count==arr1.length;
+        return count==arr.length ;
         
     }
 }
