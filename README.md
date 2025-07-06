@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0338-counting-bits) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
