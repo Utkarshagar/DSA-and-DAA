@@ -5,7 +5,6 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             curr+=nums[i];
             max_s=Math.max(max_s,curr);
-
             if(curr<0){
                 curr=0;
             }
