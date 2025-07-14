@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0792-binary-search) |
