@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
