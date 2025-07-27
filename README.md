@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2478-longest-nice-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2478-longest-nice-subarray) |
