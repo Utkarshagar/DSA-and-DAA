@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0070-climbing-stairs) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
