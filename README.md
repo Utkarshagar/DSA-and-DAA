@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3194-find-words-containing-character) |
