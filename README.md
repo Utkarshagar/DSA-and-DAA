@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2756-buy-two-chocolates) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Matrix
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Union Find
 |  |
 | ------- |
