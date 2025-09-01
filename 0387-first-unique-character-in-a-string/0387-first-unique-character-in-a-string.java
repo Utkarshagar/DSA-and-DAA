@@ -7,15 +7,13 @@ class Solution {
         char x='0';
         for(char c:map.keySet()){
             if(map.get(c)==1) {
-                x=c;
-                break;
+               return s.indexOf(c);
+               
 
 
             }
         }
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)==x) return i;
-        }
+       
         return -1;
         
     }
