@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
