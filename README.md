@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0909-stone-game) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0792-binary-search) |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
