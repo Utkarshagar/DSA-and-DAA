@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0189-rotate-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0242-valid-anagram) |
