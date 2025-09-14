@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0055-jump-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0070-climbing-stairs) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
