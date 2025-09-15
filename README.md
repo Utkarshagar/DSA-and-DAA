@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0179-largest-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0268-missing-number) |
