@@ -1,21 +1,16 @@
 class Solution {
-    public void moveZeroes(int[] arr) {
-        int c=0;
-        for(int a:arr){
-            if(a==0) c++;
-        }
-        while(c!=0){
-            for(int i=1;i<arr.length;i++){
-                if(arr[i]!=0 && arr[i-1]==0){
-                    int temp=arr[i-1];
-                    arr[i-1]=arr[i];
-                    arr[i]=temp;
-                    
-                }
+    public void moveZeroes(int[] nums) {
+        int j=0;
+        int i=0;
+        while(j<nums.length){
+            if(nums[j]!=0){
+                int temp=nums[i];
+                nums[i]=nums[j];
+                nums[j]=temp;
+                i++;
             }
-            c--;
-        }
+            j++;
 
-        
+        }
     }
 }
