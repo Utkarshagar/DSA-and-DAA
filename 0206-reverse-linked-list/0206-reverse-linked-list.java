@@ -17,6 +17,7 @@ class Solution {
             temp.next=prev;
             prev=temp;
             temp=front;
+           
         }
         return prev;
         
