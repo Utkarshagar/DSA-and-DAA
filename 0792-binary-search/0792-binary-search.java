@@ -1,18 +1,19 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int s=0;
+        int i=0;
         int e=nums.length-1;
-        while(s<=e){
-            int mid=s+(e-s)/2;
-            if(nums[mid]==target) return mid;
-            if(nums[mid]<target){
-                s=mid+1;
+        while(i<=e){
+            int m=i+(e-i)/2;
+            if(nums[m]==target) return m;
+            if(target>nums[m]) {
+                i=m+1;
             }
             else{
-                e=mid-1;
+                e=m-1;
             }
         }
         return -1;
+
         
     }
 }
