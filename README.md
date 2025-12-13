@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3483-alternating-groups-ii) |
+| [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3632-button-with-longest-push-time](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3632-button-with-longest-push-time) |
 | [3643-zero-array-transformation-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3321-type-of-triangle) |
+| [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3194-find-words-containing-character) |
 | [3451-string-compression-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
