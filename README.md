@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3483-alternating-groups-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3632-button-with-longest-push-time](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3632-button-with-longest-push-time) |
 | [3643-zero-array-transformation-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3643-zero-array-transformation-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2793-count-the-number-of-complete-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0145-binary-tree-postorder-traversal) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Database
 |  |
 | ------- |
