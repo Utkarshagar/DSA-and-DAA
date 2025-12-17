@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3483-alternating-groups-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3632-button-with-longest-push-time](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3632-button-with-longest-push-time) |
 | [3643-zero-array-transformation-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3643-zero-array-transformation-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Database
 |  |
 | ------- |
