@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0940-fruit-into-baskets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0868-push-dominoes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1894-merge-strings-alternately) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0909-stone-game) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
