@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3321-type-of-triangle) |
 | [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
