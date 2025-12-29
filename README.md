@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0560-subarray-sum-equals-k) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0940-fruit-into-baskets) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0868-push-dominoes) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2478-longest-nice-subarray) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0078-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
