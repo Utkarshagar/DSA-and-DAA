@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0782-jewels-and-stones) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0909-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0960-delete-columns-to-make-sorted-iii) |
