@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0940-fruit-into-baskets) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0966-binary-subarrays-with-sum) |
+| [1200-minimum-absolute-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1200-minimum-absolute-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1200-minimum-absolute-difference) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2274-keep-multiplying-found-values-by-two) |
