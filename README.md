@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3606-coupon-code-validator) |
 | [3632-button-with-longest-push-time](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3632-button-with-longest-push-time) |
+| [3637-trionic-array-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
