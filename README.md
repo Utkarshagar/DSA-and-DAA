@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/2308-divide-array-into-equal-pairs) |
