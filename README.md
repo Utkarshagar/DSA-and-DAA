@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-largest-magic-square](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1895-largest-magic-square) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3719-longest-balanced-subarray-i) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1250-longest-common-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Utkarshagar/DSA-and-DAA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
